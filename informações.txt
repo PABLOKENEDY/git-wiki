@@ -1,0 +1,6 @@
+# Projeto Criando Clone Git - Com React
+
+Projeto Utilizando Pacote de Dependencias a seguir
+
+npm install --save styled-components
+yarn add axios
